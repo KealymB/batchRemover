@@ -6,4 +6,4 @@
 /__pycache__
 
 #remove model
-.h5
+model.h5
