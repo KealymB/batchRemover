@@ -1,7 +1,9 @@
 /ASL_DATA
 /ASL_DATA_MASKED
 /metrics.py
-/model.h5
 /TEST_DATA
 /TEST_DATA_MASKED
 /__pycache__
+
+#remove model
+.h5
